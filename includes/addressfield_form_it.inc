@@ -4,7 +4,7 @@
  * Address handler for Italy.
  */
 class AddressFieldForm_it implements AddressFieldForm {
-  public function form($address, $field, $instance, $langcode, $items, $delta, $element) {
+  public function form($address, $field, $instance, $langcode, $items, $delta, $element, &$form_state) {
     $required = $delta == 0 && $instance['required'];
 
     $form['thoroughfare'] = array(

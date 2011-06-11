@@ -9,4 +9,5 @@ files[] = includes/addressfield_form_default.inc
 files[] = includes/addressfield_form_br.inc
 files[] = includes/addressfield_form_gb.inc
 files[] = includes/addressfield_form_us.inc
+files[] = includes/addressfield_form_ch.inc
 files[] = includes/addressfield_form_it.inc
