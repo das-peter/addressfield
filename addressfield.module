@@ -578,7 +578,7 @@ function addressfield_default_mapping() {
     'BR' => 'AddressFieldForm_br',
     'GB' => 'AddressFieldForm_gb',
     'US' => 'AddressFieldForm_us',
-    'IT' => 'AddressFieldForm_it'
+    'IT' => 'AddressFieldForm_it',
     'CH' => 'AddressFieldForm_ch',
     // TODO: complete the mapping.
   );

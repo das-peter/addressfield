@@ -1,6 +1,4 @@
 <?php
-// $Id$
-
 /**
  * Address handler for Switzerland.
  */
